@@ -13,6 +13,10 @@
     "city": {
       "type": "string",
       "required": true
+    },
+    "address": {
+      "type": "string",
+      "required": false
     }
   },
   "validations": [],
